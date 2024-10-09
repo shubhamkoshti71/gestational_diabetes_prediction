@@ -1,3 +1,5 @@
+# Gestational Diabetes Early Prediction - Collaborative Project with Fetal Life
+
 # 1. Introduction
 
 For the Machine Learning Project, we have collaborated with Fetal Life, a Kentucky-based startup dedicated to advancing healthcare solutions. Currently, the conventional practice involves physicians assessing gestational diabetes in pregnant women around week 20 of their pregnancy. Unfortunately, by this point, the diagnosis is already confirmed, with no chance of reversal. In response to this challenge, Fetal Life is actively engaged in developing an AI/ML-based prognostic method for gestational diabetes, specifically emphasizing risk stratification.
